@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dev Ops**
 
-- 📝 I regularly write articles on [Posts](https://www.linkedin.com/in/akshat-kumar-86203224a/))
+- 📝 I regularly Post articles on [LinkedIn](https://www.linkedin.com/in/akshat-kumar-86203224a/)
 
 - 📫 How to reach me **akshatkumar10203@gmail.com**
 
