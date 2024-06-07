@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar</h1>
 <h3 align="center">I Develop, Debug and Deploy!</h3>
-
+<img align="left" alt="Rocket Image" width="400" src="![image](https://github.com/Akshat-Kumar-X/Akshat-Kumar-X/assets/112055229/a5bc4e98-bfa3-4e5d-9a28-4cd64433c79c)
+">
 - 👨‍💻 Check out my Work [Portfolio](https://akshat-kumar-portfolio.vercel.app/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sGF395gqu84pzCmMe9g69CHEeOO4hpHi/view)
