@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar</h1>
 <h3 align="center">I Develop, Debug and Deploy!</h3>
-<img align="right" alt="Rocket Image" width="300" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
+<img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
 
 - 👨‍💻 Check out my Work [Portfolio](https://akshat-kumar-portfolio.vercel.app/)
 
