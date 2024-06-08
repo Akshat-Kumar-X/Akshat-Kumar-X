@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/akshat-kumar-86203224a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-kumar-86203224a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@demonclanroblox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@demonclanroblox" height="30" width="40" /></a>
 <a href="mailto:akshatkumar10203@gmail.com" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="email" height="30" width="40" />
+  <img align="center" src="=https://cdn-icons-png.flaticon.com/128/7286/7286142.png" alt="email" height="40" width="40" />
 </a>
 <a href="https://www.leetcode.com/akshat_kumar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_kumar11" height="30" width="40" /></a>
 </p>
