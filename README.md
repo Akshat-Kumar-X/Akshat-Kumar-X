@@ -37,7 +37,7 @@
     <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdashboard.triunfologistica.com.br%2F%3Fk%3Dencrypted-communications-for-a-ca-rest-api-ll-wxPoppiK&psig=AOvVaw37DlkBbl1Mxoo6SQeAIQ2_&ust=1717930600715000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCnmqvsy4YDFQAAAAAdAAAAABAZ" alt="express" width="40" height="40"/> 
+    <img src="https://superhog-apim.developer.azure-api.net/content/926f6aaba773.png" alt="express" width="40" height="40"/> 
   </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
