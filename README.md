@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/9y2PrbT/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)](https://akshat-kumar-portfolio.vercel.app/)
+[![MasterHead](https://i.ibb.co/9y2PrbT/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)](https://akshat-kumar-portfolio.vercel.app/) 
 
 <h1 align="center">Hey there! 👋, I'm Akshat Kumar</h1>
 <h3 align="center">I Develop Web Applications and Solutions</h3>
