@@ -69,3 +69,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-kumar-x&show_icons=true&locale=en&layout=compact" alt="akshat-kumar-x" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-kumar-x&show_icons=true&locale=en" alt="akshat-kumar-x" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-kumar-x&" alt="akshat-kumar-x" /></p>
