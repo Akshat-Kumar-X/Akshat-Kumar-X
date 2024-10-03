@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check out my Work [Portfolio](https://akshat-kumar-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1USTfsCmdrGq3UobGIFtsYeLHyP4Ubtmj/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1-5WIFCOBBkDyfQ_nx0UKsQOrp8e_b4wT/view?usp=sharing)
 
 - 🌱 I’m currently learning **Dev Ops**
 
