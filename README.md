@@ -1,6 +1,9 @@
 [![MasterHead](https://i.ibb.co/9y2PrbT/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)](https://akshat-kumar-portfolio.vercel.app/) 
    
 <h1 align="center">Hey there! 👋, I'm Akshat Kumar</h1>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshat-kumar-x&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-kumar-x" />
+</p>
 <h3 align="center">I Develop Web Applications and Solutions</h3> 
 <img align="right" alt="Rocket Image" width="250" src="https://i.ibb.co/Dbc2x2Q/space-Rocket.gif">
 
